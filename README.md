@@ -17,7 +17,7 @@ This project utilizes **image-based steganography** to securely embed confidenti
 ## 🛠️ How to Use
 
 ### 1️⃣ Install Dependencies
-Ensure Python is installed, then install OpenCV and Numpy:
+Ensure Python is installed, then install OpenCV:
 ```bash
 pip install opencv-python numpy
 ```
